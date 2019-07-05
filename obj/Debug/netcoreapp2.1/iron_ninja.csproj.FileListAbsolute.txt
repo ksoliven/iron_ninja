@@ -1,0 +1,11 @@
+C:\Users\chloe\OneDrive\Desktop\C#\iron_ninja\bin\Debug\netcoreapp2.1\iron_ninja.deps.json
+C:\Users\chloe\OneDrive\Desktop\C#\iron_ninja\bin\Debug\netcoreapp2.1\iron_ninja.runtimeconfig.json
+C:\Users\chloe\OneDrive\Desktop\C#\iron_ninja\bin\Debug\netcoreapp2.1\iron_ninja.runtimeconfig.dev.json
+C:\Users\chloe\OneDrive\Desktop\C#\iron_ninja\bin\Debug\netcoreapp2.1\iron_ninja.dll
+C:\Users\chloe\OneDrive\Desktop\C#\iron_ninja\bin\Debug\netcoreapp2.1\iron_ninja.pdb
+C:\Users\chloe\OneDrive\Desktop\C#\iron_ninja\obj\Debug\netcoreapp2.1\iron_ninja.csprojAssemblyReference.cache
+C:\Users\chloe\OneDrive\Desktop\C#\iron_ninja\obj\Debug\netcoreapp2.1\iron_ninja.csproj.CoreCompileInputs.cache
+C:\Users\chloe\OneDrive\Desktop\C#\iron_ninja\obj\Debug\netcoreapp2.1\iron_ninja.AssemblyInfoInputs.cache
+C:\Users\chloe\OneDrive\Desktop\C#\iron_ninja\obj\Debug\netcoreapp2.1\iron_ninja.AssemblyInfo.cs
+C:\Users\chloe\OneDrive\Desktop\C#\iron_ninja\obj\Debug\netcoreapp2.1\iron_ninja.dll
+C:\Users\chloe\OneDrive\Desktop\C#\iron_ninja\obj\Debug\netcoreapp2.1\iron_ninja.pdb
